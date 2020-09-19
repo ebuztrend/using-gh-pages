@@ -1,3 +1,4 @@
 # This is the index.md page
-[Contact Us](contact.md)  
+This is interesting. I really want to explore github to see more of what he has to offer.
+[Contact Us](contact.md)   
 [About Us](about.md)
