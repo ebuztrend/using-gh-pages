@@ -1,2 +1,2 @@
 This is the index.md page
-[Contact Us] (contact-us.md)
+[Contact Us] (contact.md)
